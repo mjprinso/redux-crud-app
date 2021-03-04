@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-This project was bsed on [link](https://codeburst.io/redux-a-crud-example-abb834d763c9).
+This project was bsed on [this tutorial](https://codeburst.io/redux-a-crud-example-abb834d763c9).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
